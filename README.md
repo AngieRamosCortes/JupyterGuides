@@ -82,7 +82,7 @@ O manualmente, crea el archivo `.env` con el siguiente contenido:
 OPENAI_API_KEY=sk-tu-clave-api-aqui
 ```
 
-⚠️ **IMPORTANTE:** Nunca compartas tu API key públicamente ni la subas a repositorios.
+**IMPORTANTE:** Nunca compartas tu API key públicamente ni la subas a repositorios.
 
 **Paso 5:** Abre el proyecto en VS Code
 
@@ -97,10 +97,19 @@ Comienza con `Guia3.ipynb` para familiarizarte con los conceptos básicos.
 ## Ejecutando las Guías
 
 ### Guía 1
+<img width="921" height="219" alt="image" src="https://github.com/user-attachments/assets/b6e75d1a-3ec4-4ef3-8765-479abda1dca4" />
 
 ### Guía 2
+<img width="921" height="611" alt="image" src="https://github.com/user-attachments/assets/804fbcaa-ba0e-4bbe-8a3e-dea9a0d0aa90" />
+<img width="921" height="444" alt="image" src="https://github.com/user-attachments/assets/b0e1d08f-4d98-49f3-89f2-41d60913f281" />
+<img width="921" height="258" alt="image" src="https://github.com/user-attachments/assets/48328af2-5999-434a-af49-ec0cbb911a82" />
 
 ### Guía 3: Fundamentos de OpenAI API
+<img width="921" height="50" alt="image" src="https://github.com/user-attachments/assets/496710c0-7de9-41fc-bb03-7e6f3776cf60" />
+<img width="921" height="307" alt="image" src="https://github.com/user-attachments/assets/83d87312-5b0e-4184-a8bc-26e83b9fc2dd" />
+<img width="921" height="182" alt="image" src="https://github.com/user-attachments/assets/97a42657-8191-4b78-b2bd-ec3f4d397fbb" />
+<img width="921" height="515" alt="image" src="https://github.com/user-attachments/assets/a55c88fe-a9b1-4e13-b11c-4c74435a0041" />
+<img width="921" height="495" alt="image" src="https://github.com/user-attachments/assets/848f40d8-ccba-4589-a2cf-623a29561064" />
 
 Esta guía cubre los conceptos básicos:
 
@@ -143,8 +152,17 @@ respuesta = ask_model(
     max_tokens=30
 )
 ```
+<img width="921" height="425" alt="image" src="https://github.com/user-attachments/assets/347acf4f-2234-479d-b5f4-bcf660a7751a" />
+<img width="921" height="254" alt="image" src="https://github.com/user-attachments/assets/43f3ce08-f0cd-4f18-9234-63da3f8e3368" />
+<img width="921" height="116" alt="image" src="https://github.com/user-attachments/assets/d98b9165-eb75-41dd-8539-74380b585c90" />
 
 ### Guía 4
+<img width="921" height="428" alt="image" src="https://github.com/user-attachments/assets/5d2338c6-f951-4605-819a-d517826b8886" />
+<img width="921" height="174" alt="image" src="https://github.com/user-attachments/assets/8102bfaf-5e93-4606-8e35-fdc7ce4d8e91" />
+<img width="921" height="243" alt="image" src="https://github.com/user-attachments/assets/827ec50b-750e-47f8-acb2-0abbb8bc3348" />
+<img width="921" height="486" alt="image" src="https://github.com/user-attachments/assets/20eb117e-58f9-4663-a785-5f917c80c734" />
+<img width="921" height="519" alt="image" src="https://github.com/user-attachments/assets/1fcc5b43-4bed-45c2-a4ac-0c960461cd57" />
+
 
 ## Estructura del Proyecto
 
